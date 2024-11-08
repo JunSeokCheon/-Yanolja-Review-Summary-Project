@@ -1,1 +1,10 @@
-# -Yanolja-Review-Summary-Project
+# 야놀자 리뷰 요약 프로젝트
+- 해당 저장소는 야놀자 리뷰 요약 프로젝트를 위한 저장소입니다.
+- 개인으로 진행하며, 데이터 수집, 가공 등의 전처리 과정과 모델 고도화 작업을 진행합니다.
+
+---
+## 구조
+![image](https://github.com/user-attachments/assets/f27313ad-0633-4c35-b66b-278cd3fb1ff1)
+
+---
+## 
