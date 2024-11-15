@@ -20,14 +20,27 @@
 - 5. 모델 고도화 1 - 프롬프트 조건 명시
 - 6. 모델 고도화 2 - 입력 데이터 재 전처리
 - 7. 모델 고도화 3 - few-shot prompting 및 few-shot을 위한 데이터 크롤링(글래드 마포, 글래드 여의도)
+- 8. 데모 제작 - gradio
 
 ---
 ## 🛠 기술 스택
-- python, bs4, Selenium, openai ...
+- python, bs4, Selenium, openai, gradio
 
 ---
 ## 💻 설치 및 실행 방법
-
+```
+pip install -r requirements.txt
+```
 
 ---
 ## 결과
+### 1. 나이트리 용산 호텔 결과
+![alt text](image/result1.png)
+
+### 2. 글래드 마포 호텔 결과
+![alt text](image/result2.png)
+
+### 3. 글래드 여의도 호텔 결과
+![alt text](image/result3.png)
+
+---
